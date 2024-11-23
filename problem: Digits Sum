@@ -16,4 +16,5 @@ scanf("%d", &num);
 int result = digitsum(num);
 printf("sum of digits of %d is %d",num, result );
     return 0;
-}
+}    
+// this is my first real working repo
